@@ -1,1 +1,1 @@
-
+This notebook is a very basic and simple exploratory data analysis (EDA) for main transfers to top leagues in the current summer transfer window, some teams investing a lot of money to be at the top for the upcoming season. Let's answer some question by using different graphs and charts 
